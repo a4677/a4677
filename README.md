@@ -8,3 +8,7 @@ Know:
 - JavaScript
 - Lua
 - Python
+
+Working on:
+- HTML
+- Java
