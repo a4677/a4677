@@ -9,6 +9,6 @@ Know:
 - Lua
 - Python
 
-Working on:
+Learning on:
 - HTML
 - Java
