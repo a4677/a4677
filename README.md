@@ -10,5 +10,5 @@ Know:
 - Python
 
 Learning on:
-- HTML
+- HTML/CSS
 - Java
