@@ -1,14 +1,19 @@
 # a4677's Profile
 
-What am I working on? :eyes:
+Hey! I'm a programmer :)
 
 Lead Developer @ Overstep Games
 
+What am I currently working on? :eyes:
+
+## Languages
+
 Know:
 - JavaScript
-- Lua
 - Python
+- Lua
+- SQL
 
-Learning on:
+Learning:
 - HTML/CSS
 - Java
