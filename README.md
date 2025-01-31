@@ -2,6 +2,8 @@
 
 Hey! I'm a programmer :)
 
+I make games and bots, sometimes
+
 Lead Developer @ Overstep Games
 
 What am I currently working on? :eyes:
