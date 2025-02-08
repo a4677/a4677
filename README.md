@@ -19,3 +19,8 @@ Know:
 Learning:
 - HTML/CSS
 - Java
+
+Skils:
+- Programming
+- UI
+- Building
