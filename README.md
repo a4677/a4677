@@ -24,3 +24,4 @@ Skils:
 - Programming
 - UI
 - Building
+- Modelling (learning)
