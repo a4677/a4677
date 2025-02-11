@@ -20,7 +20,7 @@ Learning:
 - HTML/CSS
 - Java
 
-Skils:
+Skills:
 - Programming
 - UI
 - Building
