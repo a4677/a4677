@@ -2,7 +2,7 @@
 
 Hey! I'm a programmer :)
 
-I make Roblox games and bots, sometimes 🤔
+I make Roblox games, bots and websites, sometimes 🤔
 
 Lead Developer @ Overstep Games
 
